@@ -4,8 +4,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/flier/curator.go"
-	"github.com/samuel/go-zookeeper/zk"
+	"github.com/catenoid-company/curator.go"
+	"github.com/catenoid-company/go-zookeeper/zk"
 	"github.com/stretchr/testify/mock"
 )
 

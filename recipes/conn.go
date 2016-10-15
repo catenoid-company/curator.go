@@ -3,8 +3,8 @@ package recipes
 import (
 	"time"
 
+	"github.com/catenoid-company/curator.go"
 	"github.com/fanliao/go-promise"
-	"github.com/flier/curator.go"
 )
 
 // Utility class to allow execution of logic once a ZooKeeper connection becomes available.

@@ -1,7 +1,7 @@
 package curator
 
 import (
-	"github.com/samuel/go-zookeeper/zk"
+	"github.com/catenoid-company/go-zookeeper/zk"
 )
 
 type deleteBuilder struct {

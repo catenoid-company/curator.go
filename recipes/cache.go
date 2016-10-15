@@ -6,8 +6,8 @@ import (
 	"sync/atomic"
 	"unsafe"
 
-	"github.com/flier/curator.go"
-	"github.com/samuel/go-zookeeper/zk"
+	"github.com/catenoid-company/curator.go"
+	"github.com/catenoid-company/go-zookeeper/zk"
 )
 
 type CacheEventType int
